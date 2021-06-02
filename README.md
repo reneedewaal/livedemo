@@ -1,2 +1,3 @@
-# livedemo
-Live demo for Git course
+# Live demo
+
+This is a repo for a live demo.
